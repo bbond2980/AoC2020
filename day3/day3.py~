@@ -1,0 +1,3 @@
+with open("/Users/benjaminbond/Desktop/AoC/day3/day3input.txt", 'r') as f:
+    forest = 
+    def tobogganrun(rise, run, forest):
